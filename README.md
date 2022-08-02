@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm André Morais</h1>
 <h3 align="center">I’m currently working on ME</h3>
 
-- 🎓 I’m currently working on **SkillSkope**
+- I’m currently working on **SkillSkope**
 
-- 🎵 I’m currently working on **Rubipot**
-
-- 👧 I’m currently working on **Elisa**
+- I’m currently working on **Cardano Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
